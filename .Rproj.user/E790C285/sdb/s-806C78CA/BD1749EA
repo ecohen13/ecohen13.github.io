@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "## Creating the website\nlibrary(blogdown)\ninstall_hugo()\nnew_site()\n\n## new theme\ninstall_theme(\"budparr/gohugo-theme-ananke\", theme_example = TRUE, update_config = TRUE)\n",
+    "created" : 1494355298169.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2352987470",
+    "id" : "BD1749EA",
+    "lastKnownWriteTime" : 8,
+    "last_content_update" : 1494355442918,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
