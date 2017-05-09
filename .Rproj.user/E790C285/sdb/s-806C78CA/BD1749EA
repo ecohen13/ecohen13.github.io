@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "## Creating the website\nlibrary(blogdown)\ninstall_hugo()\nnew_site()\n\n## new theme\ninstall_theme(\"budparr/gohugo-theme-ananke\", theme_example = TRUE, update_config = TRUE)\n",
+    "contents" : "## Creating the website\nlibrary(blogdown)\ninstall_hugo()\nnew_site()\n\n## new theme\ninstall_theme(\"budparr/gohugo-theme-ananke\", theme_example = TRUE, update_config = TRUE)\n\n\n\nserve_site()\n",
     "created" : 1494355298169.000,
     "dirty" : true,
     "encoding" : "",
     "folds" : "",
-    "hash" : "2352987470",
+    "hash" : "172531172",
     "id" : "BD1749EA",
     "lastKnownWriteTime" : 8,
-    "last_content_update" : 1494355442918,
+    "last_content_update" : 1494359743562,
     "path" : null,
     "project_path" : null,
     "properties" : {
