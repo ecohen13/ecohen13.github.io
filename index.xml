@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction</title>
-    <link>https://http://ecohen13.github.io/</link>
+    <link>https://ecohen13.github.io/</link>
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Mar 2017 11:55:50 +0800</lastBuildDate>
     
-	<atom:link href="https://http://ecohen13.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ecohen13.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coffee Ipsum</title>
-      <link>https://http://ecohen13.github.io/blog/coffee-ipsum/</link>
+      <link>https://ecohen13.github.io/blog/coffee-ipsum/</link>
       <pubDate>Sun, 12 Mar 2017 11:55:50 +0800</pubDate>
       
-      <guid>https://http://ecohen13.github.io/blog/coffee-ipsum/</guid>
+      <guid>https://ecohen13.github.io/blog/coffee-ipsum/</guid>
       <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
     </item>
     
     <item>
       <title>Cheese Ipsum</title>
-      <link>https://http://ecohen13.github.io/blog/cheese-ipsum/</link>
+      <link>https://ecohen13.github.io/blog/cheese-ipsum/</link>
       <pubDate>Sun, 12 Mar 2017 11:55:43 +0800</pubDate>
       
-      <guid>https://http://ecohen13.github.io/blog/cheese-ipsum/</guid>
+      <guid>https://ecohen13.github.io/blog/cheese-ipsum/</guid>
       <description>Cow dolcelatte cheese and biscuits. Pepper jack caerphilly stilton cottage cheese airedale lancashire fromage frais chalk and cheese. Bocconcini fromage frais camembert de normandie fromage frais brie squirty cheese fromage frais fromage. Boursin boursin bocconcini stilton the big cheese cheese triangles pepper jack fromage. Croque monsieur.
 $ complicated techie code git bash ubuntu &amp;gt;&amp;gt;&amp;gt; return value init foo  Squirty cheese goat brie. Cheddar cheese triangles cheese strings camembert de normandie edam cow brie jarlsberg.</description>
     </item>
     
     <item>
       <title>Hipster Ipsum</title>
-      <link>https://http://ecohen13.github.io/blog/hipster-ipsum/</link>
+      <link>https://ecohen13.github.io/blog/hipster-ipsum/</link>
       <pubDate>Sun, 12 Mar 2017 11:55:32 +0800</pubDate>
       
-      <guid>https://http://ecohen13.github.io/blog/hipster-ipsum/</guid>
+      <guid>https://ecohen13.github.io/blog/hipster-ipsum/</guid>
       <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
     </item>
     
     <item>
       <title>contact</title>
-      <link>https://http://ecohen13.github.io/contact/</link>
+      <link>https://ecohen13.github.io/contact/</link>
       <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
       
-      <guid>https://http://ecohen13.github.io/contact/</guid>
+      <guid>https://ecohen13.github.io/contact/</guid>
       <description>This is where you overcome your social anxiety and let people know how to reach you.
 You could try linking to your email, for instance. Just check it, okay?</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://http://ecohen13.github.io/about/</link>
+      <link>https://ecohen13.github.io/about/</link>
       <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
       
-      <guid>https://http://ecohen13.github.io/about/</guid>
+      <guid>https://ecohen13.github.io/about/</guid>
       <description>This is your about me page. Use it to write up a witty and engaging description of yourself.
 You can include your hobbies, favorite foods, photos of your ex-lovers, anything you like.
 You can even include some ipsums:
@@ -63,20 +63,20 @@ Cat ipsum dolor sit amet, i cry and cry and cry unless you pet me, and then mayb
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://http://ecohen13.github.io/post/2016-12-30-hello-markdown/</link>
+      <link>https://ecohen13.github.io/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://http://ecohen13.github.io/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://ecohen13.github.io/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://http://ecohen13.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://ecohen13.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://http://ecohen13.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://ecohen13.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -84,10 +84,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://http://ecohen13.github.io/post/2015-01-01-lorem-ipsum/</link>
+      <link>https://ecohen13.github.io/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>https://http://ecohen13.github.io/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>https://ecohen13.github.io/post/2015-01-01-lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
